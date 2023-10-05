@@ -1,0 +1,31 @@
+ALGORITHMS Teacher: Kamianetskiy Sergey
+Group: 300523-e-be
+Date: 29.09.2023
+Deadline: 06.10.2023
+Student: Yelena Zimin
+
+ТЕСТ: 
+№1
+1-C, 2-B, 3-A
+№2
+B
+№3
+A
+№4
+D
+№5
+E
+№6
+1-B, 2-A, 3-C, 4-D, 5-E
+№7
+1-B, 2-A, 3-D, 4-C
+
+ПСЕВДОКОД:
+START
+ WRITE (initialize int input
+  FOR int num1 = 20;
+      int num2 = 64;
+      int num3 = 37;
+      int sum = num1 + num2 + num3;
+ THEN System.out.println(num1 + " + " + num2 + " + " + num3 + " = " + sum);
+END
