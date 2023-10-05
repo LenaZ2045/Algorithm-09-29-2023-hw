@@ -22,7 +22,7 @@ E
 
 ПСЕВДОКОД:
 START
- WRITE (initialize int input
+ WRITE (initialize int input for three numbers and sum)
   FOR int num1 = 20;
       int num2 = 64;
       int num3 = 37;
